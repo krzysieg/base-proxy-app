@@ -1,0 +1,4 @@
+NETWORK_NAME="network"
+
+IMAGE_NAME="proxy:latest"
+CONTAINER_NAME="proxy"
